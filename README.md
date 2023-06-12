@@ -1,2 +1,2 @@
-# ML_PhD_Thesis
+# MachineLearningModels_PhD_Thesis
 Machine Learning models regarding my PhD Thesis
